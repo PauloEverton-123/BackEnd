@@ -1,5 +1,5 @@
 // atividade 1
-let n1 = 64;
+let n1 = 674;
 let n2 = 90;
 console.log(n1 + n2);
 console.log(n1 - n2);
@@ -14,7 +14,7 @@ console.log(comp);
 
 // atividade 3
 let num = 10;
-let compa = num > 18 ? 'maior de idade' : 'menor de idade'
+let compa = num >= 18 ? 'maior de idade' : 'menor de idade'
 console.log(compa);
 
 // atividade 4
