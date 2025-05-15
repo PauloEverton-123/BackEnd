@@ -64,3 +64,4 @@ class Veiculo{
     console.log(Carro.exibirDetalhes());
     
     console.log(Motocicleta.exibirDetalhes());
+
